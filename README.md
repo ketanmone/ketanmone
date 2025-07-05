@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Ketan Mone
+A Cybersecurity Manager and Product Thinker with 9+ years in tech strategy, compliance, and agile leadership.  
+Currently pursuing MSc in Cyber Security | Passionate about secure design, DevSecOps, and governance.
 
-<!--
-**ketanmone/ketanmone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Interests
+- Cybersecurity & Compliance
+- Risk & Threat Modeling
+- Infrastructure & DevSecOps
+- Agile Security Planning
 
-Here are some ideas to get you started:
+## 🎓 Certifications
+- ITIL 4 Specialist (AXELOS)
+- Certified Scrum Master (Scrum Alliance)
+- Google Project Management (Coursera)
+- MSc Cyber Security – University of Essex Online
 
-- 🔭 I’m currently working on Cyber Security Project Management
-- 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate on Group Discussions
-- 🤔 I’m looking for help with Harward Referencing
-- 💬 Ask me about Project Management
-- 📫 How to reach me: Via Email
-- 😎 Pronouns: He/Him
-- ⚡ Fun fact: I love gaming
--->
+## 📫 Reach Me At
+[LinkedIn](https://linkedin.com/in/ketan-mone) | ketanmone@gmail.com
